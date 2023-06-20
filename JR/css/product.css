@@ -1,0 +1,21 @@
+.body {
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+h3, h2 {
+    color: green;
+    font-family: fantasy
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+
+.button1, .button2, .button3 {
+    color: black;
+
+}
